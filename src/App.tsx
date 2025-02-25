@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Volume2, VolumeX } from 'lucide-react';
 import ParallaxHero from './components/ParallaxHero';
 import Navigation from './components/Navigation';
